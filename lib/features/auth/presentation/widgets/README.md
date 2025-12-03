@@ -1,0 +1,1 @@
+# Widgets specific only to Auth (e.g. LoginForm)

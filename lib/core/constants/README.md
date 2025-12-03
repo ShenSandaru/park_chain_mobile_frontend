@@ -1,0 +1,1 @@
+# This directory contains  Colors, Strings, API endpoints
